@@ -13,8 +13,7 @@ Hi there 👋
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />
 <img align="left" alt="IOT" width="23px" src="https://i.imgur.com/Twt1hes.jpg" />
-<img align="left" alt="Datastructerandalgorithm" width="22px" src="https://i.imgur.com/Wl3dbkY.png" />
-<img align="left" alt="Datastructerandalgorithm" width="22px" src="https://imgbin.com/png/pqWhHapd/matlab-tutorial-computer-software-engineering-data-analysis-png" />
+<img align="left" alt="Datastructerandalgorithm" width="22px" src="https://img.icons8.com/fluency/48/000000/matlab.png" />
 <br />
 <br />
 
